@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0910" tests="4" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-05-31T12:01:58" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="express_recipes_routes" timestamp="2025-05-31T12:01:58" tests="4" file="D:\Engineer-roadmap\HackerRank\HackerRank-NodeJS-Basic\node-find-recipes\test\index.spec.js" time="0.0910" failures="0">
+    <testcase name="express_recipes_routes Should return 400 for /recipes/step/:id if id is not valid" time="0.0310" classname="Should return 400 for /recipes/step/:id if id is not valid">
+    </testcase>
+    <testcase name="express_recipes_routes Should respond with 0 if elapsed time is 0" time="0.0230" classname="Should respond with 0 if elapsed time is 0">
+    </testcase>
+    <testcase name="express_recipes_routes Should respond back with the correct step - 1" time="0.0180" classname="Should respond back with the correct step - 1">
+    </testcase>
+    <testcase name="express_recipes_routes Should respond back with the correct step - 2" time="0.0190" classname="Should respond back with the correct step - 2">
+    </testcase>
+  </testsuite>
+</testsuites>
